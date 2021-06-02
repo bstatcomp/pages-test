@@ -1,0 +1,14 @@
+--- 
+title: "Urejanje podatkov"
+author: "Gregor Pirš, Matej Pičulin in Erik Štrumbelj"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Gradivo za delavnico Urejanje podatkov pobude DataScience@UL-FRI."
+---
+
